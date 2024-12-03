@@ -15,8 +15,8 @@ This is a simple calculator program written in C. The program allows the user to
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/calculator-program.git
-    cd calculator-program
+    git clone https://github.com/TechieRS/Basic_calculator.git
+    cd Basic_calculator
     ```
 
 2. Compile the program:
